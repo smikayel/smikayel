@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi I'm Sasha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
 ## 📫 How to reach me
@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/smikayel)](https://t.me/smikayel)
 
 
-##  Languages and Tools
+## ⚙️ Languages and Tools
 
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
@@ -20,6 +20,37 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
+
+
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+I am an ambitious, result-oriented person who never stops improving professional skills. Ialso understand the importance of creating a highly readable and easily maintainablesource code. Quick learner with critical thinking.Able to work under hard pressure, providehigh-quality products in a short time. It's not easy for difficult tasks and challengestostopme!
+
+#### What is CoderOne?
+
+CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+
+#### Languages Stats
+
+<!--START_SECTION:waka-->
+```text
+Armenian     Native.         █████████████████████████   100.00 % 
+English      Intermediate.   █████████████░░░░░░░░░░░░   50.61 % 
+Russian      Intermediate.   ███████████░░░░░░░░░░░░░░   48.63 % 
+```
+<!--END_SECTION:waka-->
+
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=smikayel&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
 
 
 <!--
