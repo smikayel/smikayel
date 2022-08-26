@@ -32,10 +32,6 @@
 
 I am an ambitious, result-oriented person who never stops improving professional skills. Ialso understand the importance of creating a highly readable and easily maintainablesource code. Quick learner with critical thinking.Able to work under hard pressure, providehigh-quality products in a short time. It's not easy for difficult tasks and challengestostopme!
 
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
 #### Languages Stats
 
 <!--START_SECTION:waka-->
