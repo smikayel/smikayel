@@ -1,62 +1,68 @@
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Sasha.<br>
+        Currently learning to walk in ML/DL without falling on my bottom.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/smikayel">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://t.me/smikayel">
+        <img src="https://img.shields.io/badge/telegram-blue?style=flat-square&logo=telegram" alt="Telegram">
+    </a>
+    <a href="[https://t.me/smikayel](https://www.fiverr.com/sash_mikayelyan)">
+        <img src="https://img.shields.io/badge/Fiver-green?style=flat-square&logo=Fiver" alt="Fiver">
+    </a>
+</p>
 
-## Hi I'm Sasha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/smikayel)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/smikayel)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/smikayel)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/smikayel)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/smikayel)
 
+### Technologies & Frameworks
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/smikayel)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/smikayel)
+[![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=Node)](https://github.com/smikayel)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/smikayel)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/smikayel)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/smikayel)
 
-## 📫 How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smikayel/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasha-mikayelyan@mail.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/smikayel)](https://t.me/smikayel)
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/smikayel)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/smikayel)
 
+<!-- <details>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details> -->
 
-## ⚙️ Languages and Tools
-
-<p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Java Script" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"></a>
-    <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"></a>
-    <a href="#"><img alt="ReactJs" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<p align="center">
+  <a href="https://github.com/smikayel">
+    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  </a>
 </p>
 
 
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I am an ambitious, result-oriented person who never stops improving professional skills. Ialso understand the importance of creating a highly readable and easily maintainablesource code. Quick learner with critical thinking.Able to work under hard pressure, providehigh-quality products in a short time. It's not easy for difficult tasks and challengestostopme!
-
-#### Languages Stats
-
-<!--START_SECTION:waka-->
-```text
-🇦🇲Armenian     Native.         █████████████████████████   100.00 % 
-🇺🇸English      Intermediate.   █████████████░░░░░░░░░░░░   50.61 % 
-🇷🇺Russian      Intermediate.   ███████████░░░░░░░░░░░░░░   48.63 % 
-```
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=smikayel&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
-
-
-
-
 <!--
-**smikayel/smikayel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
