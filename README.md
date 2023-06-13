@@ -12,7 +12,7 @@
     <a href="https://t.me/smikayel">
         <img src="https://img.shields.io/badge/telegram-blue?style=flat-square&logo=telegram" alt="Telegram">
     </a>
-    <a href="fiverr.com/sash_mikayelyan">
+    <a href="https://fiverr.com/sash_mikayelyan">
         <img src="https://img.shields.io/badge/Fiver-green?style=flat-square&logo=Fiver" alt="Fiver">
     </a>
 </p>
