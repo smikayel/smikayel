@@ -1,7 +1,7 @@
 <h1 align="center">Hi, guys! 👋 </h1>
   
 <p align="center">
-    <b>Welcome to my page! also pls take a look to my website smikayel.com</b><br><br>
+    <b>Welcome to my page! also pls take a look to my website <a href="https://smikayel.com"></b><br><br>
     <i>
         I'm Sasha.<br>
         Open to collaborating on interesting and innovative projects.<br>
