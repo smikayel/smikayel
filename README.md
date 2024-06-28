@@ -2,7 +2,7 @@
  
 <p align="center">
     <b>Welcome to my page! also pls take a look to my website <a href="https://smikayel.com"> smikayel.com </a></b><br><br>
-    <i>
+    <i> 
         I'm Sasha.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
