@@ -18,7 +18,7 @@
 
 
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/smikayel">
     <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
   </a>
